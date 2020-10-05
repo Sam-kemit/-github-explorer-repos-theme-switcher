@@ -22,7 +22,7 @@
 
 The project consists in present information about repositories on GitHub in a simplified way. These datas come from a public API of GitHub. You Could search about this API here (API);
 
-To see the **project**, click here: [PROJECT_NAME Rest API](https://github-explorer-samk.netlify.app/)</br>
+To see the **project**, click ➡️: [here](https://github-explorer-samk.netlify.app/)</br>
 
 ⚠️ make sure you entry your repository name correctilly like that : **REPOS_NAME/PROJECT_NAME**
 
